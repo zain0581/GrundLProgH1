@@ -1,0 +1,1 @@
+﻿global using GrundLProgH1.Codes;
